@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Andrew
+- 👀 I’m interested in building things.
+- 🌱 I’m currently learning Web, Blockchain, and Automation Tools.
+- 💞️ I’m looking to collaborate on learning or developing.
+- 📫 How to reach me: create an issue on this repository.
